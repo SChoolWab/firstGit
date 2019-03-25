@@ -1,0 +1,12 @@
+git init
+git add index.html
+git status 
+git commit -m "Hello World" index.html
+git remote add origin https://github.com/SChoolWab/firstGit.git
+git push -u origin master
+git clone https://github.com/SChoolWab/firstGit
+git branch
+git branch -r (remote branch)
+git branch create-branch (create Branch)
+git checkout create-branch (suitch branch)
+git marge create-branch (to marge)
