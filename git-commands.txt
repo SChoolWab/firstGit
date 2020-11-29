@@ -8,5 +8,6 @@ git clone https://github.com/SChoolWab/firstGit
 git branch
 git branch -r (remote branch)
 git branch create-branch (create Branch)
-git checkout create-branch (suitch branch)
+git checkout create-branch (suitch into new branch)
+git checkout branch-name (suitch existing branch)
 git marge create-branch (to marge)
